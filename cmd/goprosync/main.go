@@ -3,14 +3,14 @@ package main
 import (
 	"context"
 	"fmt"
-	"goporo/pkg/utils"
 	"os"
 	"os/signal"
 	"path/filepath"
 	"syscall"
 	"time"
 
-	"goporo/pkg/api"
+	"github.com/VANESS57/gopro-sync/pkg/api"
+	"github.com/VANESS57/gopro-sync/pkg/utils"
 
 	"github.com/dustin/go-humanize"
 )

@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"goporo/pkg/utils"
+	"github.com/VANESS57/gopro-sync/pkg/utils"
 )
 
 const (
